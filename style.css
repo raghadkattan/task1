@@ -1,0 +1,46 @@
+h1 
+{
+    color :rgb(180, 128, 157) ;
+    border: 3px solid rgb(146, 65, 118) ;
+    padding:10px;
+    width: 25%;
+    margin: 10px;
+    width: fit-content;
+}
+.p{
+    color: black ;
+    margin: 10px;
+}
+.hr {
+    border:  0,5px solid white ;
+}
+ #container 
+ {
+    background-color: rgb(198, 188, 194);
+    border: 6px solid rgb(146, 65, 118) ;
+    width: 33%;
+    margin: 20px;
+    padding-left:10px;
+    padding-right:10px;
+ }
+ html,body{
+    margin:0;
+    padding:0;
+ }
+ img{
+      border: 3px solid rgb(146, 65, 118) ;
+      margin:10px;
+      width:70%;
+ }
+ a{
+    color:rgb(146, 65, 118)  ;
+    margin: 4px;
+ }
+ body {
+    max-width: 1500px;
+    min-width: 700;
+ }
+ li span{
+    color:rgb(146, 65, 118)  ;
+    margin-left: 2px;
+ }
